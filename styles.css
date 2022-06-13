@@ -17,8 +17,6 @@
 
 header {
     text-align: center;
-    /* background-color: aqua; */
-    /* margin: 0; */
 }
 
 #mainHeading {
@@ -50,7 +48,6 @@ address {
 #positionTitle {
     font-weight: bold;
     margin-top: -1.25%;
-    /* margin-bottom: -1%; */
 }
 
 ul {
